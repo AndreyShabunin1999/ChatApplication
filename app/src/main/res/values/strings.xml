@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_chat_message">Type a message</string>
+    <string name="hint_Name">Name</string>
+    <string name="hint_Password">Password</string>
+    <string name="Btn_logIn">LOG IN</string>
+    <string name="Btn_SignUp">SIGN UP</string>
+    <string name="Error_create_auth">Some error occurred</string>
+    <string name="Error_auth">User does not exists</string>
+    <string name="User1">User</string>
+    <string name="Log_out">Log out</string>
+    <string name="Sent">This is sent message</string>
+    <string name="Receive">This is receive message</string>
+</resources>
